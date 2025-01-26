@@ -1,0 +1,95 @@
+/*Encabezado*/
+#encabezado{
+    display: flex;
+    padding: 15px;
+}
+
+#encabezado h1{
+    margin-left: 200px;
+}
+
+/*Introduccion*/
+#Introducion{
+    padding: 10px;
+    padding-bottom: 10px;
+}
+
+/*Los videos*/
+.video2{
+    margin-left: 250px;
+}
+
+.video3{
+    margin-left: 250px;
+}
+
+#losVideos{
+    padding: 10px;
+    padding-bottom: 10px;
+}
+
+/*Los audios*/
+.audio2{
+    margin-left: 270px;
+}
+
+.audio3{
+    margin-left: 270px;
+}
+
+#losAudios{
+    padding: 10px;
+    padding-bottom: 20px;
+}
+
+/*Las fotos*/
+.foto2{
+    margin-left: 250px;
+}
+
+.foto3{
+    margin-left: 250px;
+}
+
+#lasFotos{
+    padding: 10px;
+    padding-bottom: 20px;
+}
+
+/*Botones y caja de texto*/
+#cajaTexto{
+    padding: 10px;
+    padding-bottom: 20px;
+}
+
+button{
+    background-color: white;
+    border: none;
+    border-radius: 10px;
+    padding: 10px;
+    transition: 0.5s;
+}
+
+button:hover{
+    cursor: pointer;
+    background-color: red;
+    color: black;
+}
+
+/*Pie de Pagina*/
+#pieDePagina{
+    text-align: center;
+    padding: 20px;
+}
+
+/*Estilo 1*/
+.estilo1{
+    background-color: black;
+    color: red;
+}
+
+/*Estilo 2*/
+.estilo2{
+    background-color: rgb(92, 92, 158);
+    color: white;
+}
